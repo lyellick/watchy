@@ -1,2 +1,2 @@
 # watchy
-All things developed on the sqfmi watchy e-ink smartwatch.
+All things developed on the [sqfmi watchy e-ink smartwatch](https://watchy.sqfmi.com/).
