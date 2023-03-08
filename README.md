@@ -3,9 +3,9 @@ All things developed on the [sqfmi watchy e-ink smartwatch](https://watchy.sqfmi
 
 # 💡 Project Ideas - Watch Faces/Standalone/Apps
 - Just Steps
-- Maze Genetrator
+- Maze Genetrator with path finding being the second hand
 - JSONStash Integration
-- [MicroPython R&D](https://github.com/hueyy/watchy_py)
+- [MicroPython](https://github.com/hueyy/watchy_py) R&D
 
 # 📝 Findings/Notes
 - The [docs](https://watchy.sqfmi.com/docs/getting-started#simple-watchface-example) describes `sqfmi/Watchy @ 1.4.1` in `lib_deps`, but will cause build issues. It is better to check the [library](https://registry.platformio.org/libraries/sqfmi/Watchy) version for the most recent version. 
