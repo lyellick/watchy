@@ -2,7 +2,7 @@
 All things developed on the [sqfmi watchy e-ink smartwatch](https://watchy.sqfmi.com/).
 
 # 💡 Project Ideas - Watch Faces/Standalone/Apps
-- Just Steps
+- [Just Steps](https://github.com/lyellick/watchy/tree/main/just-steps)
 - Maze Genetrator with path finding being the second hand
 - JSONStash Integration
 - [MicroPython](https://github.com/hueyy/watchy_py) R&D
